@@ -6,7 +6,8 @@ To safely exit when the program is stuck, press Ctrl+C.
 
 Thank you.
 
-This program replicates a hospital.
+This program replicates a hospital. In this project I was tasked to show if I understand C and also data structures. I have made my own list.c and made my own functions that allow me to traverse the list.
+
 You can add doctors, listen their speciality and view all the doctors (2 and 3). You can also fire a doctor, which is option 6.
 You can manage patients and view them(1 and 4). When you add a patient, you associate them to a doctor (please don't overwork them, I didn't add any checks for working hours).
 You can also release a patient(option 5).
